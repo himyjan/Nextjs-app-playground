@@ -1,4 +1,4 @@
-import { StarIcon } from '@heroicons/react/solid';
+import { StarIcon } from '@heroicons/react/20/solid';
 import clsx from 'clsx';
 
 export const ProductRating = ({ rating }: { rating: number }) => {
